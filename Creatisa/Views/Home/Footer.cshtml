@@ -1,0 +1,114 @@
+<footer class="footer bg-neutral text-neutral-content">
+    <div class="grid lg:grid-cols-2 justify-self-center">
+        <div class="justify-self-center lg:justify-self-end">
+            <div class="md-12 border-y border-e border-white/20 p-6 sm:p-8 md:px-10 xl:px-40 xl:py-12">
+                <div class="grid grid-cols-2">
+                    <p class="text-xl font-semibold">Creatisa</p>
+                    <p class="text-base">Bordados y Serigrafia</p>
+                </div>
+            </div>
+
+            <div class="md-12 border-e border-white/20 p-6 sm:p-8 md:px-10 xl:px-40 xl:py-12">
+                <div class="grid grid-cols-2 gap-6 md:grid-cols-2" hx-boost="true" hx-push-url="false">
+                    <div class="flex flex-col gap-5">
+                        <h2 class="text-xl font-medium">Compañía</h2>
+                        <div class="space-y-2">
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary"
+                                   href="@Url.Action("Main", "Home")"
+                                   hx-target="#htmx-main"
+                                   hx-swap="innerHTML transition:true">Inicio</a>
+                            </div>
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary"
+                                   href="@Url.Action("About", "Home")"
+                                   hx-target="#htmx-main"
+                                   hx-swap="innerHTML transition:true">Nosotros</a>
+                            </div>
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary"
+                                   href="@Url.Action("FrequentlyAsked", "Home")"
+                                   hx-target="#htmx-main"
+                                   hx-swap="innerHTML transition:true">FAQ's</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="flex flex-col gap-5">
+                        <h2 class="text-xl font-medium">Conectar</h2>
+                        <div class="space-y-2">
+                            <!-- TODO: Página de contacto -->
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary" href="#">
+                                    Contacto
+                                </a>
+                            </div>
+                            <!-- TODO: Link a Facebook -->
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary" href="#">
+                                    Facebook
+                                </a>
+                            </div>
+                            <!-- TODO: Aviso de privacidad -->
+                            <div>
+                                <a class="text-base transition-all duration-500 hover:text-primary"
+                                   href="@Url.Action("Privacy", "Home")"
+                                   hx-target="#htmx-main"
+                                   hx-swap="innerHTML transition:true">Aviso de Privacidad</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!--
+    <div class="order-first lg:order-last md-12 border-t border-white/20 p-6 sm:p-8 md:px-10 xl:px-40 xl:py-12">
+        <form>
+            <div class="badge badge-ghost">Compañías: Solicitar una demostración</div>
+            <h2 class="mt-4 text-xl font-medium">¿Cómo puede Creatisa ayudar a mis empleados?</h2>
+            <div class="mt-4 space-y-2">
+                <div>
+                    <div class="form-control w-full">
+                        <label class="label" for="name">
+                            <span class="text-neutral-content label-text">Nombre Completo</span>
+                        </label>
+                        <input
+                            autocomplete="name"
+                            id="name"
+                            class="input input-bordered w-full input-sm"
+                            placeholder="John Doe"
+                            type="text"
+                            pattern="^[a-zA-Z0-9_.-]*$"
+                            minlength="1"
+                            required />
+                    </div>
+                </div>
+                <div>
+                    <div class="form-control w-full">
+                        <label class="label" for="email">
+                            <span class="text-neutral-content label-text">Correo</span>
+                        </label>
+                        <input
+                            autocomplete="email"
+                            id="email"
+                            class="input input-bordered w-full input-sm"
+                            placeholder="name@nowhere.com"
+                            type="email"
+                            required />
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-6 flex items-center gap-2">
+                <button class="btn btn-sm btn-primary">Agendar</button>
+                <div class="btn btn-ghost btn-sm inline-flex items-center gap-2">
+                    <i class="fa fa-play text-xl"></i>
+                    <span>Video Tour</span>
+                </div>
+            </div>
+        </form>
+    </div>
+    -->
+    </div>
+</footer>
+

@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Creatisa</title>
+    <meta content="Proyecto Final Desarrollo Sistemas" name="description" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/theme-change@2.0.2/index.js"></script>
+    <link rel="stylesheet" href="~/css/output.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" />
+    <script src="~/js/htmx.min.js" crossorigin="anonymous"></script>
+    <script type="module" src="~/js/site.js"></script>
+    <!-- Lucide Development and Productions versions -->
+    <!-- <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script> -->
+    <!-- <script src="https://unpkg.com/lucide@latest"></script> -->
+</head>
+<body>
+<!-- Components for the main page -->
+<partial name="~/Views/Home/TopBar.cshtml"/>
+<span id="htmx-modal-dialog" class="inline-block"></span>
+<section class="relative py-8 lg:py-20 htmx-content-transition"
+         id="htmx-main"
+         hx-get="@Url.Action("Main", "Home")"
+         hx-trigger="load">
+    @RenderBody()
+</section>
+<partial name="~/Views/Home/Footer.cshtml"/>
+<partial name="~/Views/Home/ThemeToggle.cshtml"/>
+@* @await RenderSectionAsync("Scripts", required: false) *@
+</body>
+</html>

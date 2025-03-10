@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Creatisa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Creatisa.dsavddu096.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\css\\input.css",
+      "PackagePath": "staticwebassets\\css\\input.css"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\css\\output.css",
+      "PackagePath": "staticwebassets\\css\\output.css"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\browser.png",
+      "PackagePath": "staticwebassets\\images\\browser.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\creatisa_logo.png",
+      "PackagePath": "staticwebassets\\images\\creatisa_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\landing\\knowledge.png",
+      "PackagePath": "staticwebassets\\images\\landing\\knowledge.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\landing\\students.png",
+      "PackagePath": "staticwebassets\\images\\landing\\students.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\landing\\tutors.png",
+      "PackagePath": "staticwebassets\\images\\landing\\tutors.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\amazon-mini.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\amazon-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\bitbucket-mini.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\bitbucket-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\g-drive.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\g-drive.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\google.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\meta-mini.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\meta-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\microsoft.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\netflix.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\openai.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\openai.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\paypal.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\slack.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\spotify.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\whatsapp.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\whatsapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\logo\\x.svg",
+      "PackagePath": "staticwebassets\\images\\logo\\x.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\users\\2024-11-13 15-42-17.png",
+      "PackagePath": "staticwebassets\\images\\users\\2024-11-13 15-42-17.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\users\\2024-11-13 17-08-12.png",
+      "PackagePath": "staticwebassets\\images\\users\\2024-11-13 17-08-12.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\users\\2024-11-13 17-09-57.png",
+      "PackagePath": "staticwebassets\\images\\users\\2024-11-13 17-09-57.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\images\\wireframe.png",
+      "PackagePath": "staticwebassets\\images\\wireframe.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\js\\htmx.min.js",
+      "PackagePath": "staticwebassets\\js\\htmx.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Creatisa.props",
+      "PackagePath": "build\\Creatisa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Creatisa.props",
+      "PackagePath": "buildMultiTargeting\\Creatisa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Creatisa.props",
+      "PackagePath": "buildTransitive\\Creatisa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,735 @@
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/appsettings.Development.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/appsettings.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/package-lock.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/package.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.staticwebassets.runtime.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.staticwebassets.endpoints.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.deps.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.runtimeconfig.json
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Creatisa.pdb
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Azure.Core.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Azure.Identity.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Humanizer.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Build.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Common.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Configuration.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Frameworks.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.LibraryModel.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Packaging.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.ProjectModel.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Protocol.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/NuGet.Versioning.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.ClientModel.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.CodeDom.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Memory.Data.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/af/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ar/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/az/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/bg/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/da/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/el/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fa/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/he/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/hr/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/hu/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/id/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/is/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/lv/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/mt/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/nb/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/nl/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ro/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/sk/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/sl/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/sr/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/sv/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/uk/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/vi/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.csproj.AssemblyReference.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.GeneratedMSBuildEditorConfig.editorconfig
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.AssemblyInfoInputs.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.AssemblyInfo.cs
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.csproj.CoreCompileInputs.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.MvcApplicationPartsAssemblyInfo.cs
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.MvcApplicationPartsAssemblyInfo.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.RazorAssemblyInfo.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.RazorAssemblyInfo.cs
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/scopedcss/bundle/Creatisa.styles.css
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/scopedcss/projectbundle/Creatisa.bundle.scp.css
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/dfv87926uj-ndv38nn242.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/oy0i4t4cpv-t070yup02p.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/w57kk0n481-61n19gt1b8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/tg2grpm3ek-3fsnc021xq.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/mdmubp92gh-xq1hcmb8xj.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/724cxk4359-n3ksrzzsg8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/5ltd01cz2h-dc6dcu6thl.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/vq8b9vx5fx-9ctdwntbnl.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/iv2sceva5f-kyzr1tjj6l.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/41duiym0ma-8n36eudroh.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/pp74zz22c5-req9r0mwar.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/g83s6225hd-7u9g0m249i.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/fy9d3l1lra-puwv81ctcu.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/bfrcybn2a6-knno4dszy8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/ue50fvt2ox-nspzmu32oy.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/r2snuewt3k-qeta2u4dyu.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/y9woupb6ai-hu8q2ymgq7.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/lj9ab1ns3p-coyqq47fdd.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/4laogzjn0j-47otxtyo56.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/nixq4wkou9-4v8eqarkd7.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/7nkqbsrxhs-l3n5xuwxn8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/6bym0kx26d-ilo7uva0vt.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/0ju7ochazb-qlccset4i1.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/nuc1kkt0bt-lzl9nlhx6b.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/si18ohwhtp-ag7o75518u.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/fcxqmsvz3b-xzw0cte36n.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/0yj84puyzh-0i3buxo5is.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/x9du7w1fgt-o1o13a6vjx.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/lhj5lm73lb-ttgo8qnofa.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/9cb7wvb28f-2z0ns9nrw6.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/bc1472oq5a-muycvpuwrr.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/8bk1uv92fi-87fc7y1x7t.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/wqvk9eyzwg-jfsiqqwiad.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/8e8kc75gv5-e0t4p3x8x8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/compressed/tb31f1fm7t-e0t4p3x8x8.gz
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets.build.json
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets.development.json
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets/msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssets.props
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets/msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets/msbuild.build.Creatisa.props
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Creatisa.props
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Creatisa.props
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/staticwebassets.pack.json
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.csproj.Up2Date
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/refint/Creatisa.dll
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.pdb
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/Creatisa.genruntimeconfig.cache
+/home/adan/RiderProjects/Creatisa/Creatisa/obj/Debug/net9.0/ref/Creatisa.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\appsettings.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\package-lock.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\package.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.staticwebassets.runtime.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.staticwebassets.endpoints.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.exe
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.deps.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.runtimeconfig.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Creatisa.pdb
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Humanizer.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.RazorAssemblyInfo.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.RazorAssemblyInfo.cs
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\scopedcss\bundle\Creatisa.styles.css
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\scopedcss\projectbundle\Creatisa.bundle.scp.css
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\dfv87926uj-ndv38nn242.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\oy0i4t4cpv-t070yup02p.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\w57kk0n481-61n19gt1b8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\tg2grpm3ek-3fsnc021xq.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\mdmubp92gh-xq1hcmb8xj.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\724cxk4359-n3ksrzzsg8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\5ltd01cz2h-dc6dcu6thl.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\vq8b9vx5fx-9ctdwntbnl.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\iv2sceva5f-kyzr1tjj6l.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\41duiym0ma-8n36eudroh.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\pp74zz22c5-req9r0mwar.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\g83s6225hd-7u9g0m249i.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\fy9d3l1lra-puwv81ctcu.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\bfrcybn2a6-knno4dszy8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\ue50fvt2ox-nspzmu32oy.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\r2snuewt3k-qeta2u4dyu.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\y9woupb6ai-hu8q2ymgq7.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\lj9ab1ns3p-coyqq47fdd.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\4laogzjn0j-47otxtyo56.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\nixq4wkou9-4v8eqarkd7.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\7nkqbsrxhs-l3n5xuwxn8.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\6bym0kx26d-ilo7uva0vt.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\0ju7ochazb-qlccset4i1.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\nuc1kkt0bt-lzl9nlhx6b.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\si18ohwhtp-ag7o75518u.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\fcxqmsvz3b-xzw0cte36n.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\0yj84puyzh-0i3buxo5is.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\x9du7w1fgt-o1o13a6vjx.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\lhj5lm73lb-ttgo8qnofa.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\9cb7wvb28f-2z0ns9nrw6.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\bc1472oq5a-muycvpuwrr.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\8bk1uv92fi-87fc7y1x7t.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\wqvk9eyzwg-jfsiqqwiad.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\8e8kc75gv5-dsavddu096.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\tb31f1fm7t-dsavddu096.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets\msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets\msbuild.Creatisa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets\msbuild.build.Creatisa.props
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Creatisa.props
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Creatisa.props
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.csproj.Up2Date
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\refint\Creatisa.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.pdb
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\ref\Creatisa.dll

@@ -1,0 +1,87 @@
+<!--
+  Usar este control para cambiar la combinación de colores
+  TODO: buscar íconos adecuados para el esquema de color correspondiente
+-->
+<div class="fixed bottom-5 end-5 z-10 flex flex-col items-center">
+    <div class="dropdown dropdown-end dropdown-top">
+        <div class="btn mt-2 btn-sm" role="button" tabindex="0">
+            Tema
+            <svg
+                class="inline-block h-2 w-2 rotate-180 fill-current opacity-60"
+                height="12px"
+                viewBox="0 0 2048 2048"
+                width="12px"
+                xmlns="http://www.w3.org/2000/svg">
+                <path d="M1799 349l242 241-1017 1017L7 590l242-241 775 775 775-775z"></path>
+            </svg>
+        </div>
+        <ul
+            class="menu dropdown-content menu-xs z-[1] w-52 rounded-box bg-base-300 shadow-2xl"
+            tabindex="0">
+            <li>
+                <button data-set-theme="" data-act-class="active">
+                    <i class="fa fa-play text-lg"></i>
+                    Sistema
+                </button>
+            </li>
+
+            <li>
+                <button data-set-theme="light" data-act-class="active">
+                    <i class="fa fa-sun text-lg"></i>
+                    Claro
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="dark" data-act-class="active">
+                    <i class="fa fa-moon text-lg"></i>
+                    Oscuro
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="cupcake" data-act-class="active">
+                    <i class="fa fa-cake-candles text-lg"></i>
+                    Pastel
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="bumblebee" data-act-class="active">
+                    <i class="fa fa-fire text-lg"></i>
+                    Solar
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="garden" data-act-class="active">
+                    <i class="fa fa-candy-cane text-lg"></i>
+                    Candy
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="valentine" data-act-class="active">
+                    <i class="fa fa-heart text-lg"></i>
+                    Valentin
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="lemonade" data-act-class="active">
+                    <i class="fa fa-lemon text-lg"></i>
+                    Cítrico
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="aqua" data-act-class="active">
+                    <i class="fa fa-water text-lg"></i>
+                    Aqua
+                </button>
+            </li>
+            <li>
+                <button data-set-theme="coffee" data-act-class="active">
+                    <i class="fa fa-mug-hot text-lg"></i>
+                    Café
+                </button>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+

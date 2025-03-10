@@ -1,0 +1,110 @@
+<!--
+ Usar este minibaner para dar noticias sobre actualizaciones o nuevas capacidades
+  TODO: agregar un boton de "cerrar". El contenido debe ser controlado desde la BD.
+ -->
+<div class="bg-neutral py-1.5 text-center text-xs text-neutral-content md:text-sm hidden">
+  <span>
+    Promoción especial descuento del 10% al usar el código
+    <span class="font-semibold text-warning">NUEVO</span> 🚀
+  </span>
+</div>
+
+<div id="navbar-wrapper"
+    class="sticky top-0 z-10 border-b bg-base-100 lg:bg-opacity-95 lg:backdrop-blur-sm"
+    x-data="{ atTop: false }"
+    :class="{ 'border-base-content/10': atTop, 'border-transparent': !atTop}"
+    @@scroll.window="atTop = (window.pageYOffset < 30) ? false: true">
+    <div class="container" hx-boost="true" hx-push-url="false">
+        <nav class="navbar px-0">
+            <div class="navbar-start gap-2">
+                <div class="flex-none lg:hidden">
+                    <label for="my-drawer" id="my-drawer-trigger" aria-label="open sidebar" class="btn btn-square btn-ghost">
+                        <i class="fa fa-bars inline-block text-xl"></i>
+                    </label>
+                </div>
+
+                <!-- Navbar Brand logo -->
+                <img src="images/creatisa_logo.png" width="40"/>
+                <a class="text-xl font-bold tracking-tighter"
+                   href="@Url.Action("Main", "Home")"
+                   hx-target="#htmx-main"
+                   hx-swap="innerHTML transition:true">Creatisa</a>
+            </div>
+
+            <div class="navbar-center hidden lg:flex">
+                <ul class="menu menu-horizontal menu-sm gap-2 px-1">
+                    <li class="font-medium">
+                        <a href="@Url.Action("Main", "Home")" 
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Inicio</a>
+                    </li>
+                    <li class="font-medium">
+                        <a href="@Url.Action("About", "Home")" 
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Nosotros</a>
+                    </li>
+                <!--
+                <li class="font-medium">
+                    <a href="@Url.Action("Methodology", "Home")"
+                       hx-target="#htmx-main"
+                       hx-swap="innerHTML transition:true">Metodología</a>
+                </li>
+                -->
+                    <li class="font-medium">
+                        <a href="@Url.Action("FrequentlyAsked", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">FAQ's</a>
+                    </li>
+                </ul>
+            </div>
+            
+            <!-- Once the user is authenticated replace this section with a greet -->
+            <div class="navbar-end gap-3">
+                <a class="btn btn-ghost btn-sm"
+                   href="@Url.Action("Register", "Register")"
+                   hx-target="#htmx-modal-dialog">Regístrate</a>
+                <a class="btn btn-primary btn-sm"
+                   href="@Url.Action("Login", "Login")"
+                   hx-target="#htmx-modal-dialog">Inicia Sesión</a>
+            </div>
+        </nav>
+
+        <!-- sm screen menu (drawer) -->
+        <div class="drawer">
+            <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+            <div class="drawer-side">
+                <label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
+                <ul class="menu min-h-full w-80 gap-2 bg-base-100 p-4 text-base-content">
+
+                    <!-- Navbar Brand logo -->
+                    <li class="font-medium">
+                        <a class="text-xl font-bold"
+                           href="@Url.Action("Main", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Creatisa</a>
+                    </li>
+                    <li class="font-medium">
+                        <a href="@Url.Action("Main", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Inicio</a>
+                    </li>
+                    <li class="font-medium">
+                        <a href="@Url.Action("About", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Nosotros</a>
+                    </li>
+                    <li class="font-medium">
+                        <a href="@Url.Action("Methodology", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">Metodología</a>
+                    </li>
+                    <li class="font-medium">
+                        <a href="@Url.Action("FrequentlyAsked", "Home")"
+                           hx-target="#htmx-main"
+                           hx-swap="innerHTML transition:true">FAQ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
