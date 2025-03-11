@@ -733,3 +733,4 @@ C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\re
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.pdb
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\ref\Creatisa.dll
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.sourcelink.json

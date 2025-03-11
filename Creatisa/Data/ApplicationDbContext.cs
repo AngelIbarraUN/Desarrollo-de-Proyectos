@@ -1,3 +1,4 @@
+using Creatisa.Identity;
 using Creatisa.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -7,6 +8,8 @@ namespace Creatisa.Data
     {
         //public DbSet<YourEntity> YourEntities { get; set; }
         
+        
+
 
         /*
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -18,4 +21,6 @@ namespace Creatisa.Data
         }
         */
     }
+    public DbSet<Cap> Caps { get; set; } 
+    public DbSet<Shirt> Shirts { get; set; } 
 }
