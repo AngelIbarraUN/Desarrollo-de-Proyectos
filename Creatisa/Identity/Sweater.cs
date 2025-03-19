@@ -1,12 +1,9 @@
 using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Creatisa.Identity
 {
-    public class Shirt
+    public class Sweater
     {
         public Guid Id { get; set; }  
 
@@ -16,14 +13,12 @@ namespace Creatisa.Identity
         [Required]
         public string Color { get; set; }
         
-        [Required]
-        public string ShirtSize { get; set; }
+        public string SweaterSize { get; set; }
         
         [Required]
         public decimal Price { get; set; }
         
         [Required]
-        
         public string Type { get; set; } 
         
         public string Material { get; set; } 

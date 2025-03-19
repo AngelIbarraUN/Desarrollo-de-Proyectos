@@ -12,7 +12,7 @@ public class CapModel
         [Required]
         public string Color { get; set; }
         
-        [Required]
+     
         public string CapSize { get; set; }
         
         [Required]

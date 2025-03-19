@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Creatisa.Identity
 {
-    public class Shirt
+    public class Cap
     {
        public Guid Id { get; set; }  
 
