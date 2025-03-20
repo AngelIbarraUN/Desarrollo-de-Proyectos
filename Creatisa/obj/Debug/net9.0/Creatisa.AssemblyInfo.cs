@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Creatisa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d65353ec3ec0c64d1b73a1ef0f784e73b95edd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02894d398b9ec667c53aaecbe212fd8fd3bde94d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Creatisa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Creatisa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

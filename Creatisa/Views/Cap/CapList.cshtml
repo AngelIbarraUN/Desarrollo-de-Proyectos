@@ -1,0 +1,54 @@
+@model List<CapModel> 
+
+@{
+    ViewData["Title"] = "Listado de Gorras:";
+    int Id = 0;
+}
+<link rel="stylesheet" href="~/css/views.css">
+
+<div class="container-tablas">
+    <div class="tabla-titul">
+        <h1>Listado de Gorras</h1>
+        <a asp-controller="Cap" asp-action="CapsAdd">+ Añadir</a>
+    </div>
+
+    <table class="tablass table table-borderless table-striped table-hover">  
+        <thead>
+            <tr>
+                <th scope="col">Acciones</th>
+                <th scope="col">ID</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Color</th>
+                <th scope="col">Tamaño</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Tipo</th>
+                <th scope="col">Material</th>
+                <th scope="col">Cantidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cap in Model)
+            {
+                Id++;
+                <tr>
+                    <td>
+                        <a class="btn" asp-controller="Cap" asp-action="CapsEdit" asp-route-id="@cap.Id">
+                            <img class="editarr" src="~/imgadmin/edit.svg" alt="Editar">
+                        </a>
+                        <a class="btn" asp-controller="Cap" asp-action="CapsDeleted" asp-route-id="@cap.Id">
+                            <img class="editarr" src="~/imgadmin/basura.svg" alt="Eliminar">
+                        </a>
+                    </td>
+                    <td> @Id </td>
+                    <td> @cap.Name</td>
+                    <td> @cap.Color</td>
+                    <td> @cap.CapSize</td>
+                    <td> @cap.Price</td>
+                    <td> @cap.Type</td>
+                    <td> @cap.Material</td>
+                    <td> @cap.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

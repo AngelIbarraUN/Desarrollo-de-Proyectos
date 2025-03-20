@@ -1,0 +1,41 @@
+@model SweaterModel
+
+@{
+    ViewData["Title"] = "Editar Sweater";
+}
+<link rel="stylesheet" href="~/css/editar.css">
+
+<div class="alertas">
+    <div asp-validation-summary="All" class="text-danger"></div>
+</div>
+
+<form class="formu" asp-controller="Sweater" asp-action="SweatersEdit">
+    <input type="hidden" asp-for="Id">
+
+    <div class="container-editar">
+        <h1>Editar Sweater @Model.Name</h1>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name">Nombre del Sweater</label>
+        <input type="text" class="form-control" asp-for="Name" placeholder="Ingrese el nombre">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Color">Color</label>
+        <input type="text" class="form-control" asp-for="Color" placeholder="Ingrese el color">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="SweaterSize">Talla</label>
+        <input type="text" class="form-control" asp-for="SweaterSize" placeholder="Ingrese la talla">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price">Precio</label>
+        <input type="number" class="form-control" asp-for="Price" placeholder="Ingrese el precio">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Type">Tipo</label>
+   

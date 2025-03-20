@@ -1,0 +1,54 @@
+@model CapModel
+@{
+    ViewData["Title"] = "Alta de Gorras";
+}
+<link rel="stylesheet" href="~/css/añadir.css">
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<div class="container-addd">
+
+    <div class="content-addd">
+        <h1 class="">Alta de Gorras</h1>
+    </div>
+
+    <form asp-controller="Cap" asp-action="CapsAdd">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="Name" name="Name" placeholder="Escriba el nombre de la gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Color" class="form-label">Color</label>
+            <input type="text" class="form-control" id="Color" name="Color" placeholder="Escriba el color de la gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="CapSize" class="form-label">Talla</label>
+            <input type="text" class="form-control" id="CapSize" name="CapSize" placeholder="Escriba la talla de la gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Price" class="form-label">Precio</label>
+            <input type="text" class="form-control" id="Price" name="Price" placeholder="Escriba el precio de la gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Type" class="form-label">Tipo</label>
+            <input type="text" class="form-control" id="Type" name="Type" placeholder="Escriba el tipo de gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Material" class="form-label">Material</label>
+            <input type="text" class="form-control" id="Material" name="Material" placeholder="Escriba el material de la gorra:" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Quantity" class="form-label">Cantidad</label>
+            <input type="text" class="form-control" id="Quantity" name="Quantity" placeholder="Escriba la cantidad disponible:" />
+        </div>
+
+        <button type="submit" class="boton">Guardar</button>
+        <button class="boton" asp-controller="Cap" asp-action="CapsList" class="btn btn-danger mb-3">Regresar</button>
+    </form>
+</div>
