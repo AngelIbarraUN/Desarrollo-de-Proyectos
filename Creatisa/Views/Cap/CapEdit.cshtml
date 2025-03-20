@@ -1,0 +1,56 @@
+@model CapModel
+
+@{
+    ViewData["Title"] = "Editar la Gorra";
+}
+<link rel="stylesheet" href="~/css/editar.css">
+
+<div class="alertas">
+    <div asp-validation-summary="All" class="text-danger"></div>
+</div>
+
+<form class="formu" asp-action="CapsEdit" asp-controller="Cap">
+    <input type="hidden" asp-for="Id">
+
+    <div class="container-editar">
+      <h1 class="">Editar Gorra @Model.Name</h1>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name">Nombre de la Gorra</label>
+        <input type="text" class="form-control" asp-for="Name" placeholder="Nombre de la Gorra">
+    </div>
+    
+    <div class="mb-3">
+        <label asp-for="Color">Color</label>
+        <input type="text" class="form-control" asp-for="Color" placeholder="Color de la Gorra">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CapSize">Tamaño</label>
+        <input type="text" class="form-control" asp-for="CapSize" placeholder="Tamaño de la Gorra">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Price">Precio</label>
+        <input type="text" class="form-control" asp-for="Price" placeholder="Precio de la Gorra">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Type">Tipo</label>
+        <input type="text" class="form-control" asp-for="Type" placeholder="Tipo de Gorra">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Material">Material</label>
+        <input type="text" class="form-control" asp-for="Material" placeholder="Material de la Gorra">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Quantity">Cantidad</label>
+        <input type="number" class="form-control" asp-for="Quantity" placeholder="Cantidad disponible">
+    </div>
+
+    <button class="boton">Guardar</button>
+    <button class="boton mb-3" asp-action="CapsList" asp-controller="Cap">Regresar</button>
+</form>

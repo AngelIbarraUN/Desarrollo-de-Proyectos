@@ -1,0 +1,47 @@
+@model Shirt
+
+@{
+    ViewData["Title"] = "Alta de Camiseta";
+}
+<link rel="stylesheet" href="~/css/añadir.css">
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<div class="container-addd">
+    <div class="content-addd">
+        <h1>Alta de Camiseta</h1>
+    </div>
+
+    <form asp-controller="Shirt" asp-action="ShirtsAdd">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Nombre</label>
+            <input type="text" class="form-control" id="Name" name="Name" placeholder="Escriba el nombre de la camiseta" required />
+        </div>
+        <div class="mb-3">
+            <label for="Color" class="form-label">Color</label>
+            <input type="text" class="form-control" id="Color" name="Color" placeholder="Escriba el color de la camiseta" required />
+        </div>
+        <div class="mb-3">
+            <label for="ShirtSize" class="form-label">Tamaño</label>
+            <input type="text" class="form-control" id="ShirtSize" name="ShirtSize" placeholder="Escriba el tamaño de la camiseta" required />
+        </div>
+        <div class="mb-3">
+            <label for="Price" class="form-label">Precio</label>
+            <input type="number" class="form-control" id="Price" name="Price" placeholder="Escriba el precio de la camiseta" required />
+        </div>
+        <div class="mb-3">
+            <label for="Type" class="form-label">Tipo</label>
+            <input type="text" class="form-control" id="Type" name="Type" placeholder="Escriba el tipo de la camiseta" required />
+        </div>
+        <div class="mb-3">
+            <label for="Material" class="form-label">Material</label>
+            <input type="text" class="form-control" id="Material" name="Material" placeholder="Escriba el material de la camiseta" />
+        </div>
+        <div class="mb-3">
+            <label for="Quantity" class="form-label">Cantidad</label>
+            <input type="number" class="form-control" id="Quantity" name="Quantity" placeholder="Escriba la cantidad de camisetas" required />
+        </div>
+        <button type="submit" class="boton">Guardar</button>
+        <button class="boton" asp-controller="Shirt" asp-action="ShirtsList" class="btn btn-danger mb-3">Regresar</button>
+    </form>
+</div>

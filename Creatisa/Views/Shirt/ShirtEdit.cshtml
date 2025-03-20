@@ -1,0 +1,50 @@
+@model Shirt
+
+@{
+    ViewData["Title"] = "Editar Camiseta";
+}
+<link rel="stylesheet" href="~/css/editar.css">
+
+<div class="alertas">
+    <div asp-validation-summary="All" class="text-danger"></div>
+</div>
+
+<form class="formu" asp-action="ShirtsEdit" asp-controller="Shirt">
+    <input type="hidden" asp-for="Id">
+
+    <div class="container-editar">
+        <h1>Editar Camiseta @Model.Name</h1>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name">Nombre de la Camiseta</label>
+        <input type="text" class="form-control" asp-for="Name" placeholder="Nombre de la Camiseta" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Color">Color</label>
+        <input type="text" class="form-control" asp-for="Color" placeholder="Color de la Camiseta" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="ShirtSize">Tamaño</label>
+        <input type="text" class="form-control" asp-for="ShirtSize" placeholder="Tamaño de la Camiseta" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price">Precio</label>
+        <input type="number" class="form-control" asp-for="Price" placeholder="Precio de la Camiseta" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Type">Tipo</label>
+        <input type="text" class="form-control" asp-for="Type" placeholder="Tipo de la Camiseta" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Material">Material</label>
+        <input type="text" class="form-control" asp-for="Material" placeholder="Material de la Camiseta" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Quantity">Cantidad</label>
+        <input type="number" class="form-control" asp-for="Quantity" placeholder="Cantidad de Camisetas" required />
+    </div>
+
+    <button class="boton">Guardar</button>
+    <button class="boton mb-3" asp-action="ShirtsList" asp-controller="Shirt">Regresar</button>
+</form>

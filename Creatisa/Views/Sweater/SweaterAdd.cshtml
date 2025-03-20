@@ -1,0 +1,47 @@
+@model SweaterModel
+@{
+    ViewData["Title"] = "Alta de Sweaters";
+}
+<link rel="stylesheet" href="~/css/añadir.css">
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+<div class="container-addd">
+    <div class="content-addd">
+        <h1 class="">Alta de Sweaters</h1>
+    </div>
+
+    <form asp-controller="Sweater" asp-action="SweatersAdd">
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Nombre</label>
+            <input type="text" class="form-control" asp-for="Name" placeholder="Escriba el nombre del sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Color" class="form-label">Color</label>
+            <input type="text" class="form-control" asp-for="Color" placeholder="Escriba el color del sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="SweaterSize" class="form-label">Tamaño</label>
+            <input type="text" class="form-control" asp-for="SweaterSize" placeholder="Escriba el tamaño del sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label">Precio</label>
+            <input type="number" step="0.01" class="form-control" asp-for="Price" placeholder="Escriba el precio del sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Type" class="form-label">Tipo</label>
+            <input type="text" class="form-control" asp-for="Type" placeholder="Escriba el tipo de sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Material" class="form-label">Material</label>
+            <input type="text" class="form-control" asp-for="Material" placeholder="Escriba el material del sweater:" />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Quantity" class="form-label">Cantidad</label>
+            <input type="number" class="form-control" asp-for="Quantity" placeholder="Escriba la cantidad disponible:" />
+        </div>
+
+        <button type="submit" class="boton">Guardar</button>
+        <button class="boton" asp-controller="Sweater" asp-action="SweatersList">Regresar</button>
+    </form>
+</div>

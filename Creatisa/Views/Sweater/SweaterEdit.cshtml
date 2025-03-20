@@ -38,4 +38,20 @@
 
     <div class="mb-3">
         <label asp-for="Type">Tipo</label>
-   
+        <input type="text" class="form-control" asp-for="Type" placeholder="Ingrese el tipo">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Material">Material</label>
+        <input type="text" class="form-control" asp-for="Material" placeholder="Ingrese el material">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Quantity">Cantidad</label>
+        <input type="number" class="form-control" asp-for="Quantity" placeholder="Ingrese la cantidad">
+    </div>
+
+    <button type="submit" class="boton">Guardar</button>
+    <a class="boton mb-3" asp-controller="Sweater" asp-action="SweatersList">Regresar</a>
+</form>
+

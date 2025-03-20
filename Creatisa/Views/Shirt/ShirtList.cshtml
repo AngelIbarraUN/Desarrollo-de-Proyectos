@@ -1,0 +1,54 @@
+@model List<Shirt>
+
+@{
+    ViewData["Title"] = "Listado de Camisetas";
+    int Id = 0;
+}
+<link rel="stylesheet" href="~/css/views.css">
+
+<div class="container-tablas">
+    <div class="tabla-titul">
+        <h1>Listado de Camisetas</h1>
+        <a asp-controller="Shirt" asp-action="ShirtsAdd">+ Añadir</a>
+    </div>
+
+    <table class="tablass table table-borderless table-striped table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Acciones</th>
+                <th scope="col">ID</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Color</th>
+                <th scope="col">Tamaño</th>
+                <th scope="col">Precio</th>
+                <th scope="col">Tipo</th>
+                <th scope="col">Material</th>
+                <th scope="col">Cantidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var shirt in Model)
+            {
+                Id++;
+                <tr>
+                    <td>
+                        <a class="btn" asp-controller="Shirt" asp-action="ShirtsEdit" asp-route-id="@shirt.Id">
+                            <img class="editarr" src="~/imgadmin/edit.svg" alt="Editar">
+                        </a>
+                        <a class="btn" asp-controller="Shirt" asp-action="ShirtsDeleted" asp-route-id="@shirt.Id">
+                            <img class="editarr" src="~/imgadmin/basura.svg" alt="Eliminar">
+                        </a>
+                    </td>
+                    <td>@Id</td>
+                    <td>@shirt.Name</td>
+                    <td>@shirt.Color</td>
+                    <td>@shirt.ShirtSize</td>
+                    <td>@shirt.Price</td>
+                    <td>@shirt.Type</td>
+                    <td>@shirt.Material</td>
+                    <td>@shirt.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
