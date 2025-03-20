@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qn0BJMH7VcZJe5CdvRY6M3W91MmbPsApzR6PGPNdJ/E=",
+  "Hash": "PruCILFouRuVr8w+k1C45rTG/SdEcc5Oy2gyfjCRqkU=",
   "Source": "Creatisa",
   "BasePath": "_content/Creatisa",
   "Mode": "Default",
@@ -1424,6 +1424,27 @@
       "OriginalItemSpec": "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1a0p4fdr42-7z4na3mlcd.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/edit#[.{fingerprint=7z4na3mlcd}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wy86purpxu",
+      "Integrity": "6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg"
+    },
+    {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1443,6 +1464,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\21qe4avbm9-m1x6iwir4v.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/green#[.{fingerprint=m1x6iwir4v}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yjims0j2g1",
+      "Integrity": "blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg"
     },
     {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
@@ -1676,6 +1718,27 @@
       "OriginalItemSpec": "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8577c7mt7i-c01eivb5mv.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/red#[.{fingerprint=c01eivb5mv}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b6l1v1usu9",
+      "Integrity": "cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg"
+    },
+    {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
@@ -1863,6 +1926,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bbdi2tvr6n-4zjh6nvps4.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/basura#[.{fingerprint=4zjh6nvps4}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "amwh1jr7q6",
+      "Integrity": "YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg"
     },
     {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bc1472oq5a-muycvpuwrr.gz",
@@ -2726,6 +2810,27 @@
       "OriginalItemSpec": "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\qy1boduqi3-m26e53mycq.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/yellow#[.{fingerprint=m26e53mycq}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "anb0jul40h",
+      "Integrity": "CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg"
+    },
+    {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\r2snuewt3k-qeta2u4dyu.gz",
       "SourceId": "Creatisa",
       "SourceType": "Discovered",
@@ -3165,6 +3270,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wl8b0sujnc-5lg15moupj.gz",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/orange#[.{fingerprint=5lg15moupj}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "elt90l64io",
+      "Integrity": "7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg"
     },
     {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wqvk9eyzwg-jfsiqqwiad.gz",
@@ -3942,6 +4068,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\wireframe.png"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\admin.png",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/admin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qr2qwn2dzn",
+      "Integrity": "ejNucxVhsM28cO/YeIbwQvJWKLhrBAWtI6v1CLNdzVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\admin.png"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/basura#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4zjh6nvps4",
+      "Integrity": "YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\basura.svg"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/edit#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7z4na3mlcd",
+      "Integrity": "80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\edit.svg"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/green#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m1x6iwir4v",
+      "Integrity": "NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\green.svg"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/orange#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5lg15moupj",
+      "Integrity": "x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\orange.svg"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/red#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c01eivb5mv",
+      "Integrity": "nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\red.svg"
+    },
+    {
+      "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg",
+      "SourceId": "Creatisa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\",
+      "BasePath": "_content/Creatisa",
+      "RelativePath": "imgadmin/yellow#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m26e53mycq",
+      "Integrity": "PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgadmin\\yellow.svg"
     },
     {
       "Identity": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\js\\htmx.min.js",
@@ -19006,6 +19279,1876 @@
         {
           "Name": "integrity",
           "Value": "sha256-It5Fv6e2ccr+cR9Bs+TQYgjEntvH1tUqykXutheSa+M="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/admin.png",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\admin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ejNucxVhsM28cO/YeIbwQvJWKLhrBAWtI6v1CLNdzVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ejNucxVhsM28cO/YeIbwQvJWKLhrBAWtI6v1CLNdzVc="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/admin.qr2qwn2dzn.png",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\admin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "127410"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ejNucxVhsM28cO/YeIbwQvJWKLhrBAWtI6v1CLNdzVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr2qwn2dzn"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/admin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ejNucxVhsM28cO/YeIbwQvJWKLhrBAWtI6v1CLNdzVc="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.4zjh6nvps4.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bbdi2tvr6n-4zjh6nvps4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002652519894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zjh6nvps4"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/basura.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.4zjh6nvps4.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zjh6nvps4"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/basura.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.4zjh6nvps4.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bbdi2tvr6n-4zjh6nvps4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4zjh6nvps4"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/basura.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bbdi2tvr6n-4zjh6nvps4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002652519894"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDGOt5J0dgNFsVwFJQspYGOhpE874zNN4IrtePQ2gP0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/basura.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\bbdi2tvr6n-4zjh6nvps4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "376"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YvzMAGqfn4B0YgxMeh6KVL0o9t9LcSaUnqqTXKbMaaA="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.7z4na3mlcd.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1a0p4fdr42-7z4na3mlcd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z4na3mlcd"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/edit.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.7z4na3mlcd.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z4na3mlcd"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/edit.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.7z4na3mlcd.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1a0p4fdr42-7z4na3mlcd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z4na3mlcd"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/edit.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1a0p4fdr42-7z4na3mlcd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001890359168"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "909"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-80737HGmNlE9wWi76U42+hxu+euBELkztHw8+hQ6Zok="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/edit.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\1a0p4fdr42-7z4na3mlcd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6FNIoCaII1UKAbMdq09bATyDwSWhKsuVuCtflPMINyo="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.m1x6iwir4v.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\21qe4avbm9-m1x6iwir4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1x6iwir4v"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/green.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.m1x6iwir4v.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1x6iwir4v"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/green.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.m1x6iwir4v.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\21qe4avbm9-m1x6iwir4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m1x6iwir4v"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/green.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\21qe4avbm9-m1x6iwir4v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NmFZHVLnbZuHWpqzEi6EsY9I0V8k8OKUHzD8ma0UQQ0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/green.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\21qe4avbm9-m1x6iwir4v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-blM8uth4Qkp/0oxTPbL3CQwZ9nNM3n4fuvCackrBkuE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.5lg15moupj.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wl8b0sujnc-5lg15moupj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lg15moupj"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/orange.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.5lg15moupj.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lg15moupj"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/orange.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.5lg15moupj.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wl8b0sujnc-5lg15moupj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5lg15moupj"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/orange.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wl8b0sujnc-5lg15moupj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x7jKVOrqMeabxz3XNnhwqpq1/szF2VFgLPUb/UrcEoQ="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/orange.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\wl8b0sujnc-5lg15moupj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7i3UxKVZ34OVqCT24Ye9+VCTU7zvKPvySQo761NlPx0="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.c01eivb5mv.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8577c7mt7i-c01eivb5mv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c01eivb5mv"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/red.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.c01eivb5mv.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c01eivb5mv"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/red.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.c01eivb5mv.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8577c7mt7i-c01eivb5mv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c01eivb5mv"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/red.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8577c7mt7i-c01eivb5mv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nBqQegH/7WIIY4sU1+s0WpZ1pH94MU1SRUhCS5AEA7I="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/red.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\8577c7mt7i-c01eivb5mv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyT7hBe1yGlyN2/aIfwYrXtI/t4e6Pn+WllraRwva5o="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.m26e53mycq.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\qy1boduqi3-m26e53mycq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m26e53mycq"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/yellow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.m26e53mycq.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m26e53mycq"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/yellow.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.m26e53mycq.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\qy1boduqi3-m26e53mycq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m26e53mycq"
+        },
+        {
+          "Name": "label",
+          "Value": "imgadmin/yellow.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\qy1boduqi3-m26e53mycq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004587155963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.svg",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "295"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PgeumzmrDI1cbigKpr4PO+++uMjDFkv2zUTfnHnz/AE="
+        }
+      ]
+    },
+    {
+      "Route": "imgadmin/yellow.svg.gz",
+      "AssetFile": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\obj\\Debug\\net9.0\\compressed\\qy1boduqi3-m26e53mycq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 22 Jul 2024 19:37:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CkrQ/1SRmyuXFeJNQLQ+5mWuJjTkHM0eP3P1IfVkZCE="
         }
       ]
     },

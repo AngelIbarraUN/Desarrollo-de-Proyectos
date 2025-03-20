@@ -734,3 +734,9 @@ C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Cr
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\ref\Creatisa.dll
 C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\Creatisa.sourcelink.json
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\bbdi2tvr6n-4zjh6nvps4.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\1a0p4fdr42-7z4na3mlcd.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\21qe4avbm9-m1x6iwir4v.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\wl8b0sujnc-5lg15moupj.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\8577c7mt7i-c01eivb5mv.gz
+C:\Users\usuario\Desktop\Creatisa Proyecto\Creatisa\Creatisa\obj\Debug\net9.0\compressed\qy1boduqi3-m26e53mycq.gz

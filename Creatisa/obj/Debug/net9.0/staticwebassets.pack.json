@@ -105,6 +105,34 @@
       "PackagePath": "staticwebassets\\images\\wireframe.png"
     },
     {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\admin.png",
+      "PackagePath": "staticwebassets\\imgadmin\\admin.png"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\basura.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\basura.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\edit.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\green.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\green.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\orange.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\orange.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\red.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\red.svg"
+    },
+    {
+      "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\imgadmin\\yellow.svg",
+      "PackagePath": "staticwebassets\\imgadmin\\yellow.svg"
+    },
+    {
       "Id": "C:\\Users\\usuario\\Desktop\\Creatisa Proyecto\\Creatisa\\Creatisa\\wwwroot\\js\\htmx.min.js",
       "PackagePath": "staticwebassets\\js\\htmx.min.js"
     },
